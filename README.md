@@ -42,6 +42,24 @@ http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
 http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
 #EXTINF:-1 group-title="24/7 RED TRAFFIC" tvg-logo="https://i.imgur.com/0XJcknD.png",MILF
 http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XXX  | Dorcel XXX
+http://appstv.us:25461/lozanos/tvmulti/862
+#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XXX | ADULTOS 12
+http://appstv.us:25461/lozanos/tvmulti/874
+#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XXX | ADULTOS 5
+http://appstv.us:25461/lozanos/tvmulti/867
+#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XXX | Brazzers
+http://appstv.us:25461/lozanos/tvmulti/390
+#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XXX | Dusk
+http://appstv.us:25461/lozanos/tvmulti/392
+#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XXX | Hustler
+http://appstv.us:25461/lozanos/tvmulti/393
+#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XXX | JASMIN TV
+http://appstv.us:25461/lozanos/tvmulti/881
+#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XXX | Venus
+http://appstv.us:25461/lozanos/tvmulti/395
+#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XXX | VIVID Red
+http://appstv.us:25461/lozanos/tvmulti/396
 #EXTINF:-1 group-title="24/7 RED TRAFFIC" tvg-logo="https://i.imgur.com/0XJcknD.png",POV
 http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
 #EXTINF:-1 group-title="24/7 RED TRAFFIC" tvg-logo="https://i.imgur.com/0XJcknD.png",Pornstar
