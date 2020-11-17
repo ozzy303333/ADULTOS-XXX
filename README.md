@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://sensorstechforum.com/wp-content/uploads/2019/07/xvideos-virus-image-sensorstechforum-com.jpg" group-title="TERROR",RAMBO
+#EXTINF:-1 group-title="24/7 ADULT IPTV" tvg-logo="https://i.imgur.com/mR1I8hE.png",A3Bikini PRUEBA
 https://femax20.com/v/4wp6pczl00g0plw
-
 #EXTINF:-1 group-title="24/7 ADULT IPTV" tvg-logo="https://i.imgur.com/mR1I8hE.png",A3Bikini TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="24/7 ADULT IPTV" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png",FTV Midnight Secrets (UHD)
