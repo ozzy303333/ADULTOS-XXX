@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://sensorstechforum.com/wp-content/uploads/2019/07/xvideos-virus-image-sensorstechforum-com.jpg" group-title="TERROR",RAMBO
-https://cdn4.telesco.pe/file/bbe845a77f.mp4?token=jYXt09Xg0nyLD1FSY3U_HqNFJszv8lR9cOjHzQwDESBLuSKxJ9ynlC2QS-nxYfUe9hP_Ooq6zA7FQK0pOTcYcfTTOZ1vZMyTbj3zhGcoKjOewNENXyKPLMLkP_M1R1Ficzern7_7ezqFrgQrjC_AOJS3Zvv3nf62I-GJR6qZkRU1DavUpqY-mKZ77oIZ2QptjrUPBlWz5wxvTS8JAnPMWNTiSRxWyFEEa5wqEzXBnYRK7JGzWv5nnQo_WObAdmsMOlqnb8l3LuIuX-0Rkz8PSpIwyTqQuUtTl2VmWCt0ZP-SN3vcPL9GVxIi37e5fykEBQvF4NnwoPqsE1JqghHi2Q
+https://femax20.com/v/4wp6pczl00g0plw
 
 #EXTINF:-1 group-title="24/7 ADULT IPTV" tvg-logo="https://i.imgur.com/mR1I8hE.png",A3Bikini TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
