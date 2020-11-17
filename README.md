@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://sensorstechforum.com/wp-content/uploads/2019/07/xvideos-virus-image-sensorstechforum-com.jpg" group-title="TERROR",RAMBO
-https://hls4-l3.xvideos-cdn.com/2a1fd720f4d6a9d305f27fd81fcab9206b7b5c4c-1605582561/videos/hls/ad/bd/8b/adbd8b4d18b62201b2c3ec2fdc32b10a/hls-480p.m3u8
+https://cdn4.telesco.pe/file/bbe845a77f.mp4?token=jYXt09Xg0nyLD1FSY3U_HqNFJszv8lR9cOjHzQwDESBLuSKxJ9ynlC2QS-nxYfUe9hP_Ooq6zA7FQK0pOTcYcfTTOZ1vZMyTbj3zhGcoKjOewNENXyKPLMLkP_M1R1Ficzern7_7ezqFrgQrjC_AOJS3Zvv3nf62I-GJR6qZkRU1DavUpqY-mKZ77oIZ2QptjrUPBlWz5wxvTS8JAnPMWNTiSRxWyFEEa5wqEzXBnYRK7JGzWv5nnQo_WObAdmsMOlqnb8l3LuIuX-0Rkz8PSpIwyTqQuUtTl2VmWCt0ZP-SN3vcPL9GVxIi37e5fykEBQvF4NnwoPqsE1JqghHi2Q
+
 #EXTINF:-1 group-title="24/7 ADULT IPTV" tvg-logo="https://i.imgur.com/mR1I8hE.png",A3Bikini TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="24/7 ADULT IPTV" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png",FTV Midnight Secrets (UHD)
